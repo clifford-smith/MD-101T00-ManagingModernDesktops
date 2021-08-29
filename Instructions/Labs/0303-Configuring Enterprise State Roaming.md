@@ -42,7 +42,7 @@ Enterprise State Roaming in Azure AD provides the ability for user settings and 
     
 2.  On the taskbar, select **Start** and then select the **Settings** icon. 
 
-3. Select **Accounts** and then select Access work or school. 
+3. Select **Accounts** and then select **Access work or school**. 
 
 4. In the **Access work or school** page, select **Connected to Contoso's Azure AD** and then select **Info**.
 
