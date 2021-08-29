@@ -15,7 +15,7 @@ You need to review Diego Siciliani's sign-in activity and general information pr
 3.  In Microsoft Edge, type **https://endpoint.microsoft.com** in the address bar, and then press **Enter**. 
 4.  Sign in as **admin\@yourtenant.onmicrosoft.com** with the tenant Admin password.
 5.  On the **Microsoft Endpoint Manager admin center** page, select **Users**.
-6.  In the Users navigation pane, in the Activity section, select **Sign-ins**. 
+6.  In the Users navigation pane, in the Activity section, select **Sign-ins logs**. 
 7.  In the Details pane, user sign-ins are listed. Select on the first entry where the **User** column displays **Diego Siciliani**.
 8.  In the **Details** pane, Diego Siciliani´s sign-in details are displayed. 
 9.  Select each of the main pages, including **Basic info**, **Location**, **Device info**, **Authentication Details**, and **Conditional Access**. Scroll to examine information on each page. 
