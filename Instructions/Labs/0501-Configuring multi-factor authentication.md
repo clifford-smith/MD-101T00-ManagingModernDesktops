@@ -28,7 +28,7 @@ To provide additional security for user sign on events, you need to configure an
 3.  On the taskbar select **Microsoft Edge**, in the address bar type **https://aad.portal.azure.com**, and then press **Enter**.
 4.  Sign in as user **Admin\@yourtenant.onmicrosoft.com**, and use the tenant Admin password. If the **Stay signed in?** prompt appears, select **No**. The Azure Active Directory admin center opens.
 5.  In the Azure Active Directory admin center, in the navigation pane, select **Users**.
-6.  Select **All users** and then at the top of the results pane select **Multi-Factor Authentication**. You may need to select the ellipse first to view the Multi-Factor Authentication option.
+6.  Select **All users** and then at the top of the results pane select **Per-user MFA**. You may need to select the ellipse first to view the **Per-user MFA** option.
 7.  On the multi-factor authentication page, select **service settings**.
 8.  Scroll down to the **verification options** section. Take note of the various methods that can be configured for user verification. Do not make any changes.
 9.  In the **remember multi-factor authentication on trusted device** section, select the check box next to **Allow users to remember multi-factor authentication on devices they trust**.
@@ -75,7 +75,7 @@ _Note: Users only have to register the first time they use MFA. Subsequent sign-
 3.   On the taskbar select **Microsoft Edge**, in the address bar type **https://aad.portal.azure.com**, and then press **Enter**.
 4.   Sign in as user **Admin\@yourtenant.onmicrosoft.com**, and use the tenant Admin password. If the **Stay signed in?** prompt appears, select **No**. The Azure Active Directory admin center opens.
 5.   In the Azure Active Directory admin center, in the navigation pane, select **Users**.
-6.   Select **All users** and then at the top of the results pane select **Multi-Factor Authentication**. You may need to select the ellipse first to view the Multi-Factor Authentication option.
+6.   Select **All users** and then at the top of the results pane select **Per-user MFA**. You may need to select the ellipse first to view the **Per-user MFA** option.
 7.   At the top of the page, under **multi-factor authentication**, select **users**.
 8.   In the user list, select the check box next to **Alex Wilber**. Take note that the **Multi-Factor Auth Status** for Alex Wilber is now set to **Enforced** (was previously set to Enabled). This is because Alex has registered and is using MFA.
 9.   In the Alex Wilber page, select **Disable**.
