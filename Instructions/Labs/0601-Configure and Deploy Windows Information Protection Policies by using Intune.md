@@ -17,7 +17,7 @@ In this lab, you will configure and apply a Windows Information Protection polic
 ### Task 2: Configure an App protection policy for Windows Information Protection
 
 1.  In the Microsoft Endpoint Manager admin center, in the navigation pane, select **Apps**.
-2.  Select **App protection policies**, select **Create policy** and select **Windows 10**.
+2.  Select **App protection policies**, select **Create policy** and select **Windows 10 and later**.
 3.  In the **Name** text box, type **Windows 10 WIP policy**.
 4.  In the **Enrollment state** list, select **Without enrollment** and select **Next**.
 5.  On the **Targeted apps** tab, under **Protected apps**, select **Add**.
