@@ -38,8 +38,8 @@ You have been asked to configure Update Rings in Intune to manage Windows update
 1.  Switch to **SEA-CL1** and sign in as **Contoso\Administrator** with the password of **Pa55w.rd**.
 2.  On the taskbar, select **Microsoft Edge**. 
 3.  In Microsoft Edge, type **https://endpoint.microsoft.com** in the address bar, and then press **Enter**.
-4.  In the navigation pane, select **Devices** and then select **Windows 10 update rings**.
-5.  On the **Devices | Windows 10 update rings** blade select **Create profile**.
+4.  In the navigation pane, select **Devices** and then select **Update rings for Windows 10 and later**.
+5.  On the **Devices | Update rings for Windows 10 and later** blade select **Create profile**.
 6.  In the **Basics** blade, enter the following information, and then select **Next**:
 
     -   Name: **Contoso Updates - standard**
