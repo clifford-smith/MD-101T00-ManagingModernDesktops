@@ -73,7 +73,7 @@ You need to prepare for device management using Microsoft Intune. First of all, 
 
 6.  On the Platform settings page, select **Next**.
 7.  On the Scope tags page, select **Next**.
-8.  On the Assignments page, select **Select groups to include**.
+8.  On the Assignments page, under **Included groups** select **Add groups**.
 9.  Select **Sales** and then click **Select** and then click **Next**.
 10.  On the Review + create page, select **Create**.
 11.  In the Microsoft Endpoint Manager admin center, in the navigation pane, select **Home**.
