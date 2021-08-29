@@ -74,7 +74,9 @@ You need to use Azure Active Directory (Azure AD) and Intune to manage members o
 
     -   Platform: **Windows 10 and later**
 
-    -   Profile: **Device restrictions**
+    -   Profile type: **Templates**
+
+    -   Template name: **Device restrictions**
 9.  In the **Basics** blade, enter the following information, and then select **Next**:
 
     -   Name: **Contoso Developer - standard**
@@ -140,7 +142,7 @@ You need to use Azure Active Directory (Azure AD) and Intune to manage members o
 2.  On the **Devices | Overview** blade, select **Configuration profiles**.
 3.  On the **Devices | Configuration profiles** blade, in the details pane, select the **Contoso Developer – standard** profile.
 4.  On the **Contoso Developer – standard** blade, select **Properties**.  Scroll down to the **Assignments** section, and select **Edit**.
-5.  In the **Assignments** section, select **Select groups to include**.
+5.  On the Assignments page, under **Included groups** select **Add groups**.
 6.  On the **Select groups to include** blade, in the **Search** box, select **Contoso Developer devices** and then select **Select**.
 7.  Back on the **Device restrictions** blade, select **Review + save**, then select **Save**.
 8.  In the Microsoft Endpoint Manager admin center, select **Devices** in the breadcrumb navigation menu.
