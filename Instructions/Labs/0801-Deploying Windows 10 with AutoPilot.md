@@ -162,22 +162,19 @@ copy c:\computer.csv \\sea-svr2\labfiles
 1.  At the **Welcome to Contoso** screen, enter **Aaron\@yourtenant.onmicrosoft.com** and select **Next**.
 2.  At the Password page, enter **Pa55w.rd1234** and select **Next**.
 3.  At the **Use Windows Hello with your account**, select **OK**.
-4.  On the **More information required** page, select **Next**.
-5.  On the **Keep your account secure** page, enter your phone number of a mobile device that can receive text messages, and then select **Next**.
-6.  In the **Enter code** page, enter the verification code and then select **Next**.
-7.  On the SMS verified message, select **Next** and then select **Done**.
-8.  On the **Setup up a PIN** dialog box, in the **New PIN** and **Confirm PIN** fields, enter **102938**, and then select **OK**.
-9.  On the **All set!** page, select **OK**.
-10.  Select **Start** and select **Settings**. 
-11.  Select **Accounts**, and then select **Access work or school**. Verify the device is connected to Contoso's Azure AD.
-12.  Select **Connected to Contoso's Azure AD** and select **Info**.
-13.  On the **Managed by Contoso** page, scroll down and then select **Sync**.
-14.  On **SEA-WS4**, close the **Settings** window.
-15.  Shut down **SEA-WS4** and close the SEA-WS4 window.
-16.  On SEA-SVR2, close Hyper-V Manager.
-17.  Switch to **SEA-CL1**.
-18.  In the Azure Active Directory admin center, select **Azure Active Directory** and then **Devices**. Note that the new device displays with an icon that indicates an Autopilot device. Also note that the Join Type is Azure AD joined with Aaron Nicholls as the owner.
-19.  On **SEA-CL1**, close Microsoft Edge.
+4.  At the Enter code page, enter the code that has been texted to your mobile device and then select Verify.
+5.  On the **Setup up a PIN** dialog box, in the **New PIN** and **Confirm PIN** fields, enter **102938**, and then select **OK**.
+6.  On the **All set!** page, select **OK**.
+7.  Select **Start** and select **Settings**. 
+8.  Select **Accounts**, and then select **Access work or school**. Verify the device is connected to Contoso's Azure AD.
+9.  Select **Connected to Contoso's Azure AD** and select **Info**.
+10.  On the **Managed by Contoso** page, scroll down and then select **Sync**.
+11.  On **SEA-WS4**, close the **Settings** window.
+12.  Shut down **SEA-WS4** and close the SEA-WS4 window.
+13.  On SEA-SVR2, close Hyper-V Manager.
+14.  Switch to **SEA-CL1**.
+15.  In the Azure Active Directory admin center, select **Azure Active Directory** and then **Devices**. Note that the new device displays with an icon that indicates an Autopilot device. Also note that the Join Type is Azure AD joined with Aaron Nicholls as the owner.
+16.  On **SEA-CL1**, close Microsoft Edge.
 
 **Results**: After completing this exercise, you will have provisioned a Windows 10 device with Autopilot using User-driven mode.
 
