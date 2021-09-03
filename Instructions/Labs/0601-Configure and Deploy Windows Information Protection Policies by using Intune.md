@@ -68,15 +68,17 @@ In this lab, you will configure and apply a Windows Information Protection polic
 4.  In the **Set up a work or school account** pane, enter **ereeve\@yourtenant.onmicrosoft.com** and then select **Next**.
 5.  Enter the password **Pa55w.rd1234**, and then select **Sign in**.
 6.  On the **More information required** page, select **Next**.
-7.  On the **Keep your account secure** page, enter your mobile phone number that is able to receive text messages and then select **Next**.
-8.  When you receive a text message, enter the provided code in the **Enter code** field and then select **Next**.
-9.  On the SMS verified message page, select **Next** and then select **Done**.
-10.  On the **Use Windows Hello with your account** page, select **OK**.
-11.  In the Windows Security prompt, in the **New PIN** and **Confirm PIN** fields, enter **102938**, and then select **OK**.
-12.  On the **Almost done** page, select **Next**.
-13.  On the **Windows Security** page, enter **Pa55w.rd** and then select **OK**.
-14.  On the Access work or school page, select **Work or school account** and then select **Info**. Scroll down and notice that the Connection info specifies that a wip.mam management server is being used.
-15.  Select the **Sync** button and then close the **Settings** window.
+7.  On the **Keep your account secure** page, select **I want to set up a different method**.
+8.  In the **Choose a different method** dialog box, select **Phone** and then select **Confirm**.
+9.  On the **Phone** page, in the **Enter phone number** field, enter your mobile phone number which is able to receive text messages. Select **Next**.
+10.  When you receive the verification code, enter the code on the Phone page and then select **Next**.
+11.  On the verification page, select **Next** and then select **Done**.
+12.  On the **Use Windows Hello with your account** page, select **OK**.
+13.  In the Windows Security prompt, in the **New PIN** and **Confirm PIN** fields, enter **102938**, and then select **OK**.
+14.  On the **Almost done** page, select **Next**.
+15.  On the **Windows Security** page, enter **Pa55w.rd** and then select **OK**.
+16.  On the Access work or school page, select **Work or school account** and then select **Info**. Scroll down and notice that the Connection info specifies that a wip.mam management server is being used.
+17.  Select the **Sync** button and then close the **Settings** window.
 
 ### Task 6: Verify the WIP policy
 
