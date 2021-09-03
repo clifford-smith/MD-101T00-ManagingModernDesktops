@@ -83,21 +83,20 @@ Contoso uses Microsoft Endpoint Configuration Manager to manage on-premises work
 8.  Select the check box next to **Run as high performance power plan,** and then select **Next**.
 9.  On the **Install Windows** page, select **Browse**, select **Windows 10 Enterprise 20H2 en-US**, and then select **OK**.
 10.  Remove the check mark next to **Configure task sequence for use with BitLocker**.
-11.  On the **Select an Operating System Upgrade Package** dialog box, select **Windows 10 Enterprise 20H2 en-US** and then select **OK**.
-12.  Select **Enable the account and specify the local administrator password**, and then in the **Password** and **Confirm password** boxes, enter **Pa55w.rd**. 
-13.  On the **Install Windows** page, select **Next**.
-14.  On the **Configure Network** page, select **Join a domain**. 
-15.  Next to **Domain**, select **Browse**, and then select **Contoso.com**, and then select **OK**.
-16.  Next to **Domain OU**, select **Browse**, and then select **Seattle Clients**, and then select **OK**.
-17.  On the **Specify the account that has permissions to join the domain**, select **Set**. Provide the user name **Contoso\Administrator** and the password of **Pa55w.rd**.
-18.  On the **Configure Network** page, select **Next**. 
-19.  On the **Install Configuration Manager** page, ensure that **Configuration Manager Client Package** is selected and then select **Next**.
-20.  On the **State Migration** page, remove the check mark next to **Capture user settings and files**, and then select **Next**.
-21.  On the **Include Updates** page, select **Do not install any software updates**, and then select **Next**.
-22.  On the **Install Applications** page, select **Next**.
-23.  On the **Confirm the settings** page, select **Next**.
-24.  On the **Completion** page, select **Close**.
-25.  Right-click the **Deploy Windows 10 Enterprise** task sequence and then select **View**. Review the steps of the task sequence and then close the window.
+11.  Select **Enable the account and specify the local administrator password**, and then in the **Password** and **Confirm password** boxes, enter **Pa55w.rd**. 
+12.  On the **Install Windows** page, select **Next**.
+13.  On the **Configure Network** page, select **Join a domain**. 
+14.  Next to **Domain**, select **Browse**, and then select **Contoso.com**, and then select **OK**.
+15.  Next to **Domain OU**, select **Browse**, and then select **Seattle Clients**, and then select **OK**.
+16.  On the **Specify the account that has permissions to join the domain**, select **Set**. Provide the user name **Contoso\Administrator** and the password of **Pa55w.rd**.
+17.  On the **Configure Network** page, select **Next**. 
+18.  On the **Install Configuration Manager** page, ensure that **Configuration Manager Client Package** is selected and then select **Next**.
+19.  On the **State Migration** page, remove the check mark next to **Capture user settings and files**, and then select **Next**.
+20.  On the **Include Updates** page, select **Do not install any software updates**, and then select **Next**.
+21.  On the **Install Applications** page, select **Next**.
+22.  On the **Confirm the settings** page, select **Next**.
+23.  On the **Completion** page, select **Close**.
+24.  Right-click the **Deploy Windows 10 Enterprise** task sequence and then select **View**. Review the steps of the task sequence and then close the window.
 
 ### Task 8: Deploy the Windows 10 Task Sequence
 
